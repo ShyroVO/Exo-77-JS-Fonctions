@@ -5,10 +5,13 @@ function txtReturn() {
 }
 
 
+function txtInsert (){
+    return "J'aime le Javascript";
+}
 
-
-
-
+function backgroundSet (){
+    return "magenta";
+}
 
 /* Ne modifiez pas le code suivant */
 
